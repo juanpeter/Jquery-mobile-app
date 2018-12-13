@@ -1,0 +1,24 @@
+#pagina-branca {
+    background-color: #fff;
+    color: #000;
+}
+
+#pagina-preta {
+    background-color: #000;
+    color: #fff;
+}
+
+#pagina-vermelha {
+    background-color: red;
+    color: #fff;
+}
+
+#pagina-verde .ui-overlay-a, .ui-page-theme-a, .ui-page-theme-a .ui-panel-wrapper{
+    background-color: green;
+    color: #fff;
+}
+
+#pagina-azul {
+    background-color: blue;
+    color: #fff;
+}
